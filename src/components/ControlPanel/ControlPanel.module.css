@@ -1,0 +1,21 @@
+.panel {
+	display: flex;
+	margin-bottom: 30px;
+	align-items: flex-end;
+}
+
+.buttons {
+	display: flex;
+	justify-content: space-between;
+	width: 260px;
+	margin-right: 20px;
+}
+
+.button {
+	width: 120px;
+	height: 40px;
+}
+
+.search {
+	flex-grow: 1;
+}
